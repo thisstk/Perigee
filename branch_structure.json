@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/be-030-jwt-expiry-validation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/be-030-jwt-expiry-validation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/be-030-jwt-expiry-validation",
+    "origin"
+  ]
+}
